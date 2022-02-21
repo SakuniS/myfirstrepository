@@ -11,8 +11,7 @@ import android.widget.EditText;
 
 public class MainActivity<Edittext> extends AppCompatActivity {
 
-    Button bt;
-    Edittext et;
+    Button button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
